@@ -1,0 +1,504 @@
+All 147311 elements have been inserted into the AVL tree
+
+The height of the tree is 21
+
+The minimum element in the tree is: 
+ISBN: 0001010565
+Title: Mog's Christmas
+Author: Judith Kerr
+Year Published: 1992
+Publisher: Collins
+
+The maximum element in the tree is: 
+ISBN: B0002K6K8O
+Title: The Underground City
+Author: Jules Verne
+Year Published: 2000
+Publisher: Digireads.com
+
+
+Sucessful Search!!!
+ISBN: 0001010565
+Title: Mog's Christmas
+Author: Judith Kerr
+Year Published: 1992
+Publisher: Collins
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 0061030872
+Title: Maggie Sweet
+Author: Judith Minthorn Stacy
+Year Published: 2002
+Publisher: HarperTorch
+The number of comparisons made for this succeesful search is 15
+
+
+Sucessful Search!!!
+ISBN: 0140350543
+Title: Three Musketeers
+Author: Alexandre Dumas
+Year Published: 1966
+Publisher: Penguin USA
+The number of comparisons made for this succeesful search is 16
+
+
+Sucessful Search!!!
+ISBN: 0310356121
+Title: God Loves My Kitchen Best
+Author: Mab Graff
+Year Published: 1977
+Publisher: Zondervan
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 0324041586
+Title: The New York Times Guide to Finance
+Author: Jamie Murphy
+Year Published: 2000
+Publisher: South-Western College Pub
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 034910946X
+Title: Racing Pigs and Giant Morrows
+Author: Harry Pearson
+Year Published: 2000
+Publisher: Trafalgar Square
+The number of comparisons made for this succeesful search is 18
+
+
+Sucessful Search!!!
+ISBN: 0380008955
+Title: Hundred and One Dalmatians
+Author: Dodie Smith
+Year Published: 1982
+Publisher: Avon Books
+The number of comparisons made for this succeesful search is 18
+
+
+Sucessful Search!!!
+ISBN: 0385507763
+Title: Love in Idleness : A Novel
+Author: AMANDA CRAIG
+Year Published: 2003
+Publisher: Nan A. Talese
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 0425048381
+Title: The Hand
+Author: Marc Brandel
+Year Published: 1981
+Publisher: Berkley Pub Group
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 0440236754
+Title: Sunset in St. Tropez
+Author: Danielle Steel
+Year Published: 2003
+Publisher: Dell Publishing Company
+The number of comparisons made for this succeesful search is 13
+
+
+Sucessful Search!!!
+ISBN: 0446679178
+Title: Kleopatra
+Author: Karen Essex
+Year Published: 2002
+Publisher: Warner Books
+The number of comparisons made for this succeesful search is 14
+
+
+Sucessful Search!!!
+ISBN: 0451402774
+Title: Silk and Shadows
+Author: Mary Jo Putney
+Year Published: 1991
+Publisher: Onyx Books
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 0517708191
+Title: Kill Kill Faster Faster : A Novel
+Author: JOEL ROSE
+Year Published: 1997
+Publisher: Crown
+The number of comparisons made for this succeesful search is 18
+
+
+Sucessful Search!!!
+ISBN: 055328553X
+Title: Golden Thread
+Author: Suzy Charnas
+Year Published: 1990
+Publisher: Starfire
+The number of comparisons made for this succeesful search is 18
+
+
+Sucessful Search!!!
+ISBN: 0590457403
+Title: Emergency Room (Point)
+Author: Caroline B. Cooney
+Year Published: 1994
+Publisher: Scholastic
+The number of comparisons made for this succeesful search is 14
+
+
+Sucessful Search!!!
+ISBN: 0671534203
+Title: MEMORY'S EMBRACE
+Author: Jim Miller
+Year Published: 1984
+Publisher: Pocket
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 0679723536
+Title: Ticket to Ride
+Author: Dennis Potter
+Year Published: 1989
+Publisher: Vintage Books USA
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 0709164645
+Title: Condominium
+Author: John D. MacDonald
+Year Published: 1977
+Publisher: Robert Hale Ltd
+The number of comparisons made for this succeesful search is 18
+
+
+Sucessful Search!!!
+ISBN: 075285884X
+Title: Wives and Lovers
+Author: Jane Elizabeth Varley
+Year Published: 2004
+Publisher: Orion
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 0801978971
+Title: Imaginative Patchwork
+Author: Peigi Martin
+Year Published: 1989
+Publisher: Chilton Book Company
+The number of comparisons made for this succeesful search is 18
+
+
+Sucessful Search!!!
+ISBN: 0812966627
+Title: 10th Grade : A Novel
+Author: JOE WEISBERG
+Year Published: 2003
+Publisher: Random House Trade Paperbacks
+The number of comparisons made for this succeesful search is 16
+
+
+Sucessful Search!!!
+ISBN: 0843945427
+Title: Unveiled (Love Spell)
+Author: Jenni Licata
+Year Published: 1999
+Publisher: Leisure Books
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 0884042081
+Title: Black Genesis (Black Genesis)
+Author: L. Ron Hubbard
+Year Published: 1986
+Publisher: Bridge Publications
+The number of comparisons made for this succeesful search is 18
+
+
+Sucessful Search!!!
+ISBN: 0913990639
+Title: Spiritual Midwifery
+Author: Ina May Gaskin
+Year Published: 1990
+Publisher: Book Publishing Company (TN)
+The number of comparisons made for this succeesful search is 16
+
+
+Sucessful Search!!!
+ISBN: 1401300588
+Title: The Tree Bride : A Novel
+Author: Bharati Mukherjee
+Year Published: 2004
+Publisher: Hyperion
+The number of comparisons made for this succeesful search is 19
+
+
+Sucessful Search!!!
+ISBN: 1564134229
+Title: Las Vegas and Laughlin
+Author: Southern California Edit Auto Club
+Year Published: 1998
+Publisher: Automobile Club of Southern California
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 186046310X
+Title: Silk
+Author: Alessandro Baricco
+Year Published: 1920
+Publisher: HarperCollins Publishers
+The number of comparisons made for this succeesful search is 16
+
+
+Sucessful Search!!!
+ISBN: 189403158X
+Title: Maggie's Family
+Author: Susan Charlotte Haley
+Year Published: 2002
+Publisher: Gaspereau Press
+The number of comparisons made for this succeesful search is 19
+
+
+Sucessful Search!!!
+ISBN: 207040983X
+Title: Vu
+Author: Serge Joncour
+Year Published: 2000
+Publisher: Gallimard
+The number of comparisons made for this succeesful search is 18
+
+
+Sucessful Search!!!
+ISBN: 2266084380
+Title: La cense aux alouettes
+Author: Marie-Paul Armand
+Year Published: 1999
+Publisher: Pocket
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 2843232228
+Title: Red
+Author: Stephanie Busuttil-Cesar
+Year Published: 2000
+Publisher: Assouline
+The number of comparisons made for this succeesful search is 19
+
+
+Sucessful Search!!!
+ISBN: 3150078210
+Title: Die Zwolf Geschworenen
+Author: R. Rose
+Year Published: 1997
+Publisher: Philipp Reclam, Jun Verlag GmbH
+The number of comparisons made for this succeesful search is 18
+
+
+Sucessful Search!!!
+ISBN: 3401025597
+Title: Klippenmond. (LIFE). ( Ab 13 J.).
+Author: Annelies Schwarz
+Year Published: 1995
+Publisher: Arena
+The number of comparisons made for this succeesful search is 14
+
+
+Sucessful Search!!!
+ISBN: 3442450535
+Title: Heidengeld.
+Author: Elmore Leonard
+Year Published: 2002
+Publisher: Goldmann
+The number of comparisons made for this succeesful search is 15
+
+
+Sucessful Search!!!
+ISBN: 1585670847
+Title: Where the Rainbow Ends
+Author: Jameson Currier
+Year Published: 2000
+Publisher: Overlook Press
+The number of comparisons made for this succeesful search is 18
+
+
+Sucessful Search!!!
+ISBN: 3499232383
+Title: Nells geheimer Garten.
+Author: Kitty Ray
+Year Published: 2002
+Publisher: Rowohlt Tb.
+The number of comparisons made for this succeesful search is 18
+
+
+Sucessful Search!!!
+ISBN: 3895082309
+Title: The Ambassadors (Konemann Classics)
+Author: Henry James
+Year Published: 1998
+Publisher: Konemann
+The number of comparisons made for this succeesful search is 16
+
+
+Sucessful Search!!!
+ISBN: 843501634X
+Title: ESA Dama
+Author: Kate O'Brien
+Year Published: 2001
+Publisher: Edhasa
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 8811666376
+Title: Garzanti - Gli Elefanti: Passeggeri
+Author: G Romagnoli
+Year Published: 2000
+Publisher: Garzanti Editore
+The number of comparisons made for this succeesful search is 17
+
+
+Sucessful Search!!!
+ISBN: 9723703661
+Title: Vida conversável (Peninsulares)
+Author: Agostinho da Silva
+Year Published: 1994
+Publisher: Assírio &amp; Alvim
+The number of comparisons made for this succeesful search is 18
+
+
+There is no book with ISBN 0001010596
+The number of comparisons made for this unsucceesful search is 17
+
+There is no book with ISBN 0061030898
+The number of comparisons made for this unsucceesful search is 16
+
+There is no book with ISBN 0140350561
+The number of comparisons made for this unsucceesful search is 19
+
+There is no book with ISBN 0310361121
+The number of comparisons made for this unsucceesful search is 19
+
+There is no book with ISBN 0324042601
+The number of comparisons made for this unsucceesful search is 17
+
+There is no book with ISBN 0349109501
+The number of comparisons made for this unsucceesful search is 19
+
+There is no book with ISBN 0380008962
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 0385507959
+The number of comparisons made for this unsucceesful search is 17
+
+There is no book with ISBN 0425048401
+The number of comparisons made for this unsucceesful search is 17
+
+There is no book with ISBN 0440236761
+The number of comparisons made for this unsucceesful search is 16
+
+There is no book with ISBN 0446679187
+The number of comparisons made for this unsucceesful search is 16
+
+There is no book with ISBN 0451402779
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 0517708243
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 0553285544
+The number of comparisons made for this unsucceesful search is 19
+
+There is no book with ISBN 0590457421
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 0671534311
+The number of comparisons made for this unsucceesful search is 17
+
+There is no book with ISBN 0679723777
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 0709167719
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 0752858901
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 0801981019
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 0812966651
+The number of comparisons made for this unsucceesful search is 17
+
+There is no book with ISBN 0843945429
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 0884042084
+The number of comparisons made for this unsucceesful search is 19
+
+There is no book with ISBN 0913990793
+The number of comparisons made for this unsucceesful search is 17
+
+There is no book with ISBN 1401300592
+The number of comparisons made for this unsucceesful search is 19
+
+There is no book with ISBN 1564138201
+The number of comparisons made for this unsucceesful search is 19
+
+There is no book with ISBN 1860463219
+The number of comparisons made for this unsucceesful search is 16
+
+There is no book with ISBN 1894048445
+The number of comparisons made for this unsucceesful search is 19
+
+There is no book with ISBN 2070409819
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 2266085109
+The number of comparisons made for this unsucceesful search is 17
+
+There is no book with ISBN 2843234167
+The number of comparisons made for this unsucceesful search is 19
+
+There is no book with ISBN 3150079119
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 3401025741
+The number of comparisons made for this unsucceesful search is 16
+
+There is no book with ISBN 3442450552
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 3499232387
+The number of comparisons made for this unsucceesful search is 19
+
+There is no book with ISBN 3895082446
+The number of comparisons made for this unsucceesful search is 17
+
+There is no book with ISBN 8435016357
+The number of comparisons made for this unsucceesful search is 17
+
+There is no book with ISBN 8811666419
+The number of comparisons made for this unsucceesful search is 17
+
+There is no book with ISBN 9723703901
+The number of comparisons made for this unsucceesful search is 18
+
+There is no book with ISBN 1585670848
+The number of comparisons made for this unsucceesful search is 18
+
+There were 40 successful searches
+The average number of comparisons for a successful search is 16.9
+
+There were 40 unsuccessful searches
+The average number of comparisons for an unsuccessful search is 17.725
